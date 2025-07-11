@@ -1,0 +1,28 @@
+name,province,category,latitude,longitude,entry_fee,popularity,scenery
+Kruger National Park,Mpumalanga,Wildlife,-23.9884,31.5547,300,10,9
+Addo Elephant National Park,Eastern Cape,Wildlife,-33.4458,25.7496,250,9,8
+Kgalagadi Transfrontier Park,Northern Cape,Wildlife,-26.281,20.5394,320,9,9
+Hluhluwe-iMfolozi Park,KwaZulu-Natal,Wildlife,-28.0339,31.6103,200,8,8
+iSimangaliso Wetland Park,KwaZulu-Natal,Nature,-28.2833,32.5333,100,9,10
+Camps Bay Beach,Western Cape,Beach,-33.9519,18.3777,0,9,10
+Durban Golden Mile,KwaZulu-Natal,Beach,-29.8492,31.0367,0,9,9
+Jeffreys Bay,Eastern Cape,Beach,-34.05,24.9167,0,8,9
+Boulders Beach,Western Cape,Beach,-34.1964,18.4517,75,9,10
+Robben Island,Western Cape,Heritage,-33.8067,18.3666,160,10,8
+Apartheid Museum,Gauteng,Museum,-26.2348,28.0144,100,10,7
+Cradle of Humankind,Gauteng,Heritage,-25.9684,27.7587,80,9,8
+Mapungubwe National Park,Limpopo,Heritage,-22.2,29.3667,90,8,7
+Blyde River Canyon,Mpumalanga,Nature,-24.5233,30.7925,50,9,10
+Drakensberg Mountains,KZN,Adventure,-29.35,29.5333,70,9,10
+Tsitsikamma National Park,Eastern Cape,Adventure,-34.0225,23.89,60,9,9
+Garden Route National Park,Western Cape,Nature,-33.9833,22.75,60,8,9
+V&A Waterfront,Western Cape,Urban,-33.9076,18.4204,0,10,8
+Montecasino,Gauteng,Urban,-26.0249,28.0113,0,8,7
+uShaka Marine World,KwaZulu-Natal,Theme Park,-29.8686,31.0457,150,9,8
+Nizamiye Mosque,Gauteng,Religious,-25.9701,28.134,0,7,8
+St. George's Cathedral,Western Cape,Religious,-33.9258,18.4232,0,7,7
+Stellenbosch Wine Route,Western Cape,Culinary,-33.9333,18.85,50,9,9
+Franschhoek Wine Valley,Western Cape,Culinary,-33.9,19.1167,60,9,10
+Lion & Safari Park,Gauteng,Zoo,-25.9371,27.8497,80,8,8
+Johannesburg Zoo,Gauteng,Zoo,-26.1626,28.0456,70,8,7
+Pretoria Zoo,Gauteng,Zoo,-25.7394,28.189,75,8,7
